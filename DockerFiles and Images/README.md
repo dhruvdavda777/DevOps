@@ -1,7 +1,8 @@
 # Docker Multi-Stage Build - Homework
 
-**Name:** Shubham Shah
-**Enrollment Number:** 24BCS10316
+**Name:** Dhruv Davda
+**Roll Number:** 24BCS10203
+**Mail ID:** 24bcs10203@sst.scaler.com
 
 ## Task 1: Multi-Stage Dockerfile
 
